@@ -1,3 +1,12 @@
+## New resource pages
+
+- [CSV import cleanup workflow](https://trendstackai.com/resources/csv-import-cleanup-workflow.html?utm_source=manual&utm_medium=github&utm_campaign=second_round_links&utm_content=csv-import-cleanup-workflow)
+- [CSV column mapping AI guide](https://trendstackai.com/resources/csv-column-mapping-ai.html?utm_source=manual&utm_medium=github&utm_campaign=second_round_links&utm_content=csv-column-mapping-ai)
+- [CSV encoding and delimiter fix guide](https://trendstackai.com/resources/csv-encoding-and-delimiter-fix.html?utm_source=manual&utm_medium=github&utm_campaign=second_round_links&utm_content=csv-encoding-and-delimiter-fix)
+- [Google Sheets cleanup before and after](https://trendstackai.com/resources/google-sheets-cleanup-before-after.html?utm_source=manual&utm_medium=github&utm_campaign=second_round_links&utm_content=google-sheets-cleanup-before-after)
+- [CRM lead source normalization AI](https://trendstackai.com/resources/crm-lead-source-normalization-ai.html?utm_source=manual&utm_medium=github&utm_campaign=second_round_links&utm_content=crm-lead-source-normalization-ai)
+- [Excel formula audit checklist](https://trendstackai.com/resources/excel-formula-audit-checklist.html?utm_source=manual&utm_medium=github&utm_campaign=second_round_links&utm_content=excel-formula-audit-checklist)
+
 # AI Spreadsheet Operations Checklists
 
 Practical checklists for cleaning spreadsheet exports, mapping CSV imports, reviewing AI-generated formulas, and checking operational data before it goes into Airtable, Google Sheets, Excel, CRM tools, or dashboards.
